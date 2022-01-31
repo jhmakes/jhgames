@@ -1,8 +1,10 @@
+<head>
 <style>
   body{
   background-color:black
   }
 </style>
+  </head>
 <body>
   <div>
   <p>teaser hp</p>
